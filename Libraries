@@ -1,3 +1,5 @@
+# Libraries Needed
+
 pip install smtplib
 
 pip install sys
@@ -33,3 +35,6 @@ pip install geocoder
 pip install carrler
 
 pip install timezone
+
+# If the Libraries didn't install just type after any library (--break-system-packages
+)
