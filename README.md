@@ -16,6 +16,48 @@ Step 3 : To run the tool Write in Terminal (python AK_Toolset.py)
 # Usage
 Just Download the libraries
 
+# Libraries Needed
+
+pip install smtplib
+
+pip install sys
+
+pip install time
+
+pip install os
+
+pip install system
+
+pip install requests
+
+pip install threading
+
+pip install random
+
+pip install re
+
+pip install datetime
+
+pip install colorama
+
+pip install b64
+
+pip install ba
+
+pip install webbrowser
+
+pip install phonenumbers
+
+pip install geocoder
+
+pip install carrler
+
+pip install timezone
+
+# If the Libraries didn't install just type after any library (--break-system-packages
+)
+
+
 # About Me
 Welcome To AK Tools!
 
