@@ -18,41 +18,7 @@ Just Download the libraries
 
 # Libraries Needed
 
-pip install smtplib
-
-pip install sys
-
-pip install time
-
-pip install os
-
-pip install system
-
-pip install requests
-
-pip install threading
-
-pip install random
-
-pip install re
-
-pip install datetime
-
-pip install colorama
-
-pip install b64
-
-pip install ba
-
-pip install webbrowser
-
-pip install phonenumbers
-
-pip install geocoder
-
-pip install carrler
-
-pip install timezone
+pip install -r requirements.txt
 
 # If the Libraries didn't install just type after any library (--break-system-packages
 )
