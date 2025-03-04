@@ -20,8 +20,7 @@ Just Download the libraries
 
 pip install -r requirements.txt
 
-# If the Libraries didn't install just type after any library (--break-system-packages
-)
+# If the Libraries didn't install just type after any library (--break-system-packages)
 
 
 # About Me
